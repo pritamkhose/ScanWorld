@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\common_full_open_on_phone.png",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-tvdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\common_full_open_on_phone.png",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-tvdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\common_full_open_on_phone.png",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-tvdpi\\common_full_open_on_phone.png"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_save.png",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_save.png"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_full_open_on_phone.png",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-xhdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_save.png",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_save.png"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_new.png",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_new.png"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_full_open_on_phone.png",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-xhdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_save.png",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_save.png"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_new.png",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_new.png"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_new.png",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_new.png"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_full_open_on_phone.png",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-xhdpi\\common_full_open_on_phone.png"
+    }
+]

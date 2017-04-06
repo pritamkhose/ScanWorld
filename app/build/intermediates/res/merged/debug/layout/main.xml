@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+  <FrameLayout
+    android:id="@+id/camera_preview"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    />
+  
+  <com.pritam.scanworld.HoverView
+      android:id="@+id/hover_view"
+      android:layout_width="fill_parent"
+      android:layout_height="fill_parent"/>
+
+
+  <LinearLayout
+      android:id="@+id/buttonsLayout"
+      android:layout_width="80dp"
+      android:layout_height="match_parent"
+      android:layout_gravity="center"
+      android:orientation="vertical"
+      android:visibility="gone"
+      >
+
+    <Button
+        android:id="@+id/btn_zoomin"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Z+"
+        />
+
+    <Button
+        android:id="@+id/btn_zoomout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Z-"
+        />
+
+    <Button
+        android:id="@+id/btnFlash"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Flash"
+        android:onClick="flashLight"
+        />
+
+    <Button
+        android:id="@+id/button_foucs"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Auto"
+        android:visibility="gone"
+        />
+
+    <Button
+        android:id="@+id/btnSwitch"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Switch"
+        android:onClick="switchCamera"
+        android:visibility="gone"
+        />
+    <!--android:color="#66FF0000"
+    android:alpha="0.25"-->
+
+  </LinearLayout>
+
+</RelativeLayout>

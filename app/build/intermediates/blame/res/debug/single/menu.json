@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\menu\\blankmenu.xml",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\src\\main\\res\\menu\\blankmenu.xml"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\menu\\blankmenu.xml",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\src\\main\\res\\menu\\blankmenu.xml"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\menu\\blankmenu.xml",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\src\\main\\res\\menu\\blankmenu.xml"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\menu\\detailmenu.xml",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\src\\main\\res\\menu\\detailmenu.xml"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\menu\\detailmenu.xml",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\src\\main\\res\\menu\\detailmenu.xml"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\menu\\detailmenu.xml",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\src\\main\\res\\menu\\detailmenu.xml"
+    }
+]

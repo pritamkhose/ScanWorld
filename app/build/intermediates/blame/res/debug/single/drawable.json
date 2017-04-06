@@ -1,0 +1,458 @@
+[
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\barcode.jpg",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\src\\main\\res\\drawable\\barcode.jpg"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_exit.png",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\src\\main\\res\\drawable\\ic_action_exit.png"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scancard.png",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\src\\main\\res\\drawable\\scancard.png"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\barcode.jpg",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\src\\main\\res\\drawable\\barcode.jpg"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selectfile.jpg",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\src\\main\\res\\drawable\\selectfile.jpg"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_refresh.png",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\src\\main\\res\\drawable\\ic_action_refresh.png"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_exit.png",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\src\\main\\res\\drawable\\ic_action_exit.png"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera.png",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\src\\main\\res\\drawable\\camera.png"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notes.png",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\src\\main\\res\\drawable\\notes.png"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_refresh.png",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\src\\main\\res\\drawable\\ic_action_refresh.png"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_next_item.png",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\src\\main\\res\\drawable\\ic_action_next_item.png"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scancard.png",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\src\\main\\res\\drawable\\scancard.png"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notes.png",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\src\\main\\res\\drawable\\notes.png"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\roundcornerg.xml",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\src\\main\\res\\drawable\\roundcornerg.xml"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_next_item.png",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\src\\main\\res\\drawable\\ic_action_next_item.png"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scancard.png",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\src\\main\\res\\drawable\\scancard.png"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\barcode.jpg",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\src\\main\\res\\drawable\\barcode.jpg"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selectfile.jpg",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\src\\main\\res\\drawable\\selectfile.jpg"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_previous_item.png",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\src\\main\\res\\drawable\\ic_action_previous_item.png"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_next_item.png",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\src\\main\\res\\drawable\\ic_action_next_item.png"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notes.png",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\src\\main\\res\\drawable\\notes.png"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera.png",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\src\\main\\res\\drawable\\camera.png"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selectfile.jpg",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\src\\main\\res\\drawable\\selectfile.jpg"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_previous_item.png",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\src\\main\\res\\drawable\\ic_action_previous_item.png"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_exit.png",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\src\\main\\res\\drawable\\ic_action_exit.png"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\roundcornerg.xml",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\src\\main\\res\\drawable\\roundcornerg.xml"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera.png",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\src\\main\\res\\drawable\\camera.png"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_refresh.png",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\src\\main\\res\\drawable\\ic_action_refresh.png"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_previous_item.png",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\src\\main\\res\\drawable\\ic_action_previous_item.png"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\roundcornerg.xml",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\src\\main\\res\\drawable\\roundcornerg.xml"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\Code\\Java\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "G:\\Pritam\\AndroidStudioProjects\\2 myapp\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\Educational\\Code\\Android\\AndroidStudioProjects\\ScanWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    }
+]
