@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Software\Android\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="E:\Educational\Code\Android\AndroidStudioProjects\ScanWorld\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_74c605a7b33a81f2b5b97605b25c933d446e9e0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Educational\Code\Android\AndroidStudioProjects\ScanWorld\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="E:\Educational\Code\Android\AndroidStudioProjects\ScanWorld\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.3.0_3aeb0ccc54097bdc9ad35237f03faa967f9e754a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Educational\Code\Android\AndroidStudioProjects\ScanWorld\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="E:\Educational\Code\Android\AndroidStudioProjects\ScanWorld\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_190648982a3db0dc1781ae0cc1ae9e08d91073e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Educational\Code\Android\AndroidStudioProjects\ScanWorld\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="E:\Educational\Code\Android\AndroidStudioProjects\ScanWorld\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_3da2166901db0ed038f584fd86eabcd3262a713e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Educational\Code\Android\AndroidStudioProjects\ScanWorld\app\build\intermediates\exploded-aar\com.rmtheis\tess-two\6.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="5472842cfc69fa9fe412865bb3f4e73c1120b50e">
+        <dex dex="E:\Educational\Code\Android\AndroidStudioProjects\ScanWorld\app\build\intermediates\pre-dexed\debug\com.rmtheis-tess-two-6.1.1_b8831ea9ec57e25d8e38fb85b2bd914660c47eb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Educational\Code\Android\AndroidStudioProjects\ScanWorld\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="E:\Educational\Code\Android\AndroidStudioProjects\ScanWorld\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_952fce95067f21eb175e9133c5fd695bf6024288.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Educational\Code\Android\AndroidStudioProjects\ScanWorld\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="E:\Educational\Code\Android\AndroidStudioProjects\ScanWorld\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_0ce6ea5b1a76760cff4ba8b0cf18ea945414808e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Educational\Code\Android\AndroidStudioProjects\ScanWorld\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="E:\Educational\Code\Android\AndroidStudioProjects\ScanWorld\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_5ed98fc6204d8fc185a5519cf28a4db79c8e1831.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Educational\Code\Android\AndroidStudioProjects\ScanWorld\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="E:\Educational\Code\Android\AndroidStudioProjects\ScanWorld\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.3.0_b9ad62d941ea6550818d634e7626b5aa185303ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Educational\Code\Android\AndroidStudioProjects\ScanWorld\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="E:\Educational\Code\Android\AndroidStudioProjects\ScanWorld\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_e3d70cead768778210b550709d8329fa9a0a0ffd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Educational\Code\Android\AndroidStudioProjects\ScanWorld\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="E:\Educational\Code\Android\AndroidStudioProjects\ScanWorld\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_6a3c7211f09ec92b6e39d526f2130f01acacff3a.jar" />
+    </item>
+
+</items>

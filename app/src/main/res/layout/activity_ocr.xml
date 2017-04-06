@@ -1,0 +1,197 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".OCRActivity"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:padding="3dp">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageButton
+            android:layout_width="50dp"
+            android:layout_height="30dp"
+            android:id="@+id/barcodeButton"
+            android:clickable="true"
+            android:layout_weight="1"
+            android:onClick="Barcoderead"
+            android:background="@null"
+            android:scaleType="fitXY"
+            android:adjustViewBounds="true"
+            android:src="@drawable/barcode"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="New Text"
+            android:id="@+id/displaybarcode"
+            android:layout_below="@+id/barcodeButton"
+            android:layout_alignParentLeft="true"
+            android:layout_marginTop="34dp"
+            android:layout_alignParentRight="true" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:gravity="left"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="Scan Image: "/>
+
+        <Button
+            android:id="@+id/bt_gallery"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Gallery"
+            android:visibility="gone"
+            ></Button>
+
+        <Button
+            android:id="@+id/bt_camera"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/bt_gallery"
+            android:text="Cam"
+            android:visibility="gone"
+            />
+
+        <ImageView
+            android:id="@+id/cam"
+            android:layout_alignParentBottom="true"
+            android:layout_toLeftOf="@+id/imageView11"
+            android:clickable="true"
+            android:onClick="camPhoto"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            android:layout_width="50dip"
+            android:layout_height="50dip"
+            android:src="@drawable/camera" />
+
+        <ImageView
+            android:id="@+id/gallery"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_gravity="right"
+            android:layout_marginRight="5dp"
+            android:clickable="true"
+            android:onClick="gallaryPhoto"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            android:layout_width="50dip"
+            android:layout_height="50dip"
+            android:src="@drawable/selectfile" />
+
+
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="20dp"
+            android:onClick="showImage"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/bt_camera"
+            android:layout_toEndOf="@+id/bt_camera" />
+
+        <Button
+            android:id="@+id/saveBtn"
+            android:layout_marginLeft="30dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/roundcornerg"
+            android:layout_gravity="end"
+            android:onClick="doSave"
+            android:text="Add lang"
+            />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/action_btn"
+            android:text="Capture image"
+            android:visibility="gone"
+            android:layout_below="@+id/instruction">
+        </Button>
+    </LinearLayout>
+
+    <Spinner
+        android:id="@+id/lang"
+        android:padding="0dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </Spinner>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:background="@color/white"
+        android:id="@+id/scrollview">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:stretchColumns="3">
+
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentTop="true"
+                        android:text="Scan text: "
+                        android:textSize="16sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/black"
+                        android:gravity="right"
+                        android:layout_marginRight="5dp"
+                        android:layout_column="1" />
+
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        android:id = "@+id/tv_result"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/linearLayout"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:textIsSelectable="true"
+                        android:scrollbars="vertical"
+                        android:layout_column="1"
+                        android:text=""
+                        android:layout_span="3" />
+                </TableRow>
+
+            </TableLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

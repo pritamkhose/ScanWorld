@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Scan world</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_save">Settings</string>
+    <string name="action_exit">Settings</string>
+
+    <string name="title_activity_ocr">Scan Card</string>
+
+    <string name="chkNet1">Check your Internet connection...</string>
+    <string name="chkNet">Internet connection not available</string>
+    <string name="offNet">Data saved locally\nPlease synchronize with server</string>
+    <string name="serErr">Error Connecting Server...</string>
+    <string name="title_activity_dosave">Offline save</string>
+
+    <string name="ocrurl">https://github.com/tesseract-ocr/tessdata/raw/master/eng.traineddata</string>
+
+    <!--https://github.com/tesseract-ocr/tessdata-->
+    <string-array name="lang">
+        <item>afr~Afrikaans</item>
+        <item>amh~Amharic</item>
+        <item>ara~Arabic</item>
+        <item>asm~Assamese</item>
+        <item>aze~Azerbaijani</item>
+        <item>aze_cyrl~Azerbaijani - Cyrilic</item>
+        <item>bel~Belarusian</item>
+        <item>ben~Bengali</item>
+        <item>bod~Tibetan</item>
+        <item>bos~Bosnian</item>
+        <item>bul~Bulgarian</item>
+        <item>cat~Catalan / Valencian</item>
+        <item>ceb~Cebuano</item>
+        <item>ces~Czech</item>
+        <item>chi_sim~Chinese - Simplified</item>
+        <item>chi_tra~Chinese - Traditional</item>
+        <item>chr~Cherokee</item>
+        <item>cym~Welsh</item>
+        <item>dan~Danish</item>
+        <item>dan_frak~Danish - Fraktur</item>
+        <item>deu~German</item>
+        <item>deu_frak~German - Fraktur</item>
+        <item>dzo~Dzongkha</item>
+        <item>ell~Greek, Modern~1453</item>
+        <item>eng~English</item>
+        <item>enm~English, Middle~1100-1500</item>
+        <item>epo~Esperanto</item>
+        <item>equ~Math / equation detection module</item>
+        <item>est~Estonian</item>
+        <item>eus~Basque</item>
+        <item>fas~Persian</item>
+        <item>fin~Finnish</item>
+        <item>fra~French</item>
+        <item>frk~Frankish</item>
+        <item>frm~French, Middle~ca.1400-1600</item>
+        <item>gle~Irish</item>
+        <item>glg~Galician</item>
+        <item>grc~Greek, Ancient~to 1453</item>
+        <item>guj~Gujarati</item>
+        <item>hat~Haitian / Haitian Creole</item>
+        <item>heb~Hebrew</item>
+        <item>hin~Hindi</item>
+        <item>hrv~Croatian</item>
+        <item>hun~Hungarian</item>
+        <item>iku~Inuktitut</item>
+        <item>ind~Indonesian</item>
+        <item>isl~Icelandic</item>
+        <item>ita~Italian</item>
+        <item>ita_old~Italian - Old</item>
+        <item>jav~Javanese</item>
+        <item>jpn~Japanese</item>
+        <item>kan~Kannada</item>
+        <item>kat~Georgian</item>
+        <item>kat_old~Georgian - Old</item>
+        <item>kaz~Kazakh</item>
+        <item>khm~Central Khmer</item>
+        <item>kir~Kirghiz / Kyrgyz</item>
+        <item>kor~Korean</item>
+        <item>kur~Kurdish</item>
+        <item>lao~Lao</item>
+        <item>lat~Latin</item>
+        <item>lav~Latvian</item>
+        <item>lit~Lithuanian</item>
+        <item>mal~Malayalam</item>
+        <item>mar~Marathi</item>
+        <item>mkd~Macedonian</item>
+        <item>mlt~Maltese</item>
+        <item>msa~Malay</item>
+        <item>mya~Burmese</item>
+        <item>nep~Nepali</item>
+        <item>nld~Dutch / Flemish</item>
+        <item>nor~Norwegian</item>
+        <item>ori~Oriya</item>
+        <item>osd~Orientation and script detection module</item>
+        <item>pan~Panjabi</item>
+        <item>pol~Polish</item>
+        <item>por~Portuguese</item>
+        <item>pus~Pushto / Pashto</item>
+        <item>ron~Romanian / Moldavian / Moldovan</item>
+        <item>rus~Russian</item>
+        <item>san~Sanskrit</item>
+        <item>sin~Sinhala / Sinhalese</item>
+        <item>slk~Slovak</item>
+        <item>slk_frak~Slovak - Fraktur</item>
+        <item>slv~Slovenian</item>
+        <item>spa~Spanish / Castilian</item>
+        <item>spa_old~Spanish / Castilian - Old</item>
+        <item>sqi~Albanian</item>
+        <item>srp~Serbian</item>
+        <item>srp_latn~Serbian - Latin</item>
+        <item>swa~Swahili</item>
+        <item>swe~Swedish</item>
+        <item>syr~Syriac</item>
+        <item>tam~Tamil</item>
+        <item>tel~Telugu</item>
+        <item>tgk~Tajik</item>
+        <item>tgl~Tagalog</item>
+        <item>tha~Thai</item>
+        <item>tir~Tigrinya</item>
+        <item>tur~Turkish</item>
+        <item>uig~Uighur / Uyghur</item>
+        <item>ukr~Ukrainian</item>
+        <item>urd~Urdu</item>
+        <item>uzb~Uzbek</item>
+        <item>uzb_cyrl~Uzbek - Cyrilic</item>
+        <item>vie~Vietnamese</item>
+        <item>yid~Yiddish</item>
+    </string-array>
+    <string name="title_activity_download_lib">DownloadLib</string>
+
+
+    <string name="BarcodeReader">Barcode Reader</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>
